@@ -1,0 +1,295 @@
+
+
+Network_Metrics Reset
+PIT_Metrics Reset
+CS_Metrics Reset
+Fib_Metrics Reset
+
+------------------ Network_Metrics:------------------------
+       	      Avg. Response Time = 1.072000 mS
+    	 Avg. Forwarding Latency = 0.186000 mS
+         Avg. Processing Latency = 0.224000 mS
+	   Total Interests Satisfied = 6
+	              Avg. Hop Count = 1.998801
+
+					Device_Metrics:
+   	 	     nInInterest Packets = 10007
+   	 	    nOutInterest Packets = 10006
+   	 	     	 nInData Packets = 10006
+   	 	     	nOutData Packets = 10006
+
+					Throughput:
+   	 	     			intSize = 1088165
+   	 	     			dataSize = 1427786
+
+				PIT_Metrics:
+    				   nPIT Hits = 0
+    				   nPIT Miss = 10007
+    			    PIT Hit Rate = 0 %
+           Avg. PIT Miss Latency = 28.912393 uS
+            Avg. PIT Hit Latency = 0.000000 uS
+     Avg. PIT Processing Latency = 28.912393 uS
+
+				CS_Metrics:
+    				   nCS Hits = 0
+    				   nCS Miss = 10006
+    			    CS Hit Rate = 0 %
+           Avg. CS Miss Latency = 51.240926 uS
+            Avg. CS Hit Latency = 0.000000 uS
+         Avg. CS Lookup Latency = 51.240926 uS
+
+				FIB_Metrics:
+    				  nFIB Hits = 10006
+             Forwarding Latency = 1.434540 uS
+
+Network_Metrics Reset
+PIT_Metrics Reset
+CS_Metrics Reset
+Fib_Metrics Reset
+
+------------------ Network_Metrics:------------------------
+       	      Avg. Response Time = 3.079000 mS
+    	 Avg. Forwarding Latency = 2.072000 mS
+         Avg. Processing Latency = 2.120000 mS
+	   Total Interests Satisfied = 6
+	              Avg. Hop Count = 1.998801
+
+					Device_Metrics:
+   	 	     nInInterest Packets = 10007
+   	 	    nOutInterest Packets = 10006
+   	 	     	 nInData Packets = 10006
+   	 	     	nOutData Packets = 10006
+
+					Throughput:
+   	 	     			intSize = 1100379
+   	 	     			dataSize = 1440000
+
+				PIT_Metrics:
+    				   nPIT Hits = 0
+    				   nPIT Miss = 10007
+    			    PIT Hit Rate = 0 %
+           Avg. PIT Miss Latency = 28.629478 uS
+            Avg. PIT Hit Latency = 0.000000 uS
+     Avg. PIT Processing Latency = 28.629478 uS
+
+				CS_Metrics:
+    				   nCS Hits = 0
+    				   nCS Miss = 10006
+    			    CS Hit Rate = 0 %
+           Avg. CS Miss Latency = 59.715813 uS
+            Avg. CS Hit Latency = 0.000000 uS
+         Avg. CS Lookup Latency = 59.715813 uS
+
+				FIB_Metrics:
+    				  nFIB Hits = 10006
+             Forwarding Latency = 1.408575 uS
+
+Network_Metrics Reset
+PIT_Metrics Reset
+CS_Metrics Reset
+Fib_Metrics Reset
+
+------------------ Network_Metrics:------------------------
+       	      Avg. Response Time = 1.213000 mS
+    	 Avg. Forwarding Latency = 0.322000 mS
+         Avg. Processing Latency = 0.331000 mS
+	   Total Interests Satisfied = 6
+	              Avg. Hop Count = 1.998801
+
+					Device_Metrics:
+   	 	     nInInterest Packets = 10007
+   	 	    nOutInterest Packets = 10006
+   	 	     	 nInData Packets = 10006
+   	 	     	nOutData Packets = 10006
+
+					Throughput:
+   	 	     			intSize = 1100379
+   	 	     			dataSize = 1440000
+
+				PIT_Metrics:
+    				   nPIT Hits = 0
+    				   nPIT Miss = 10007
+    			    PIT Hit Rate = 0 %
+           Avg. PIT Miss Latency = 31.864341 uS
+            Avg. PIT Hit Latency = 0.000000 uS
+     Avg. PIT Processing Latency = 31.864341 uS
+
+				CS_Metrics:
+    				   nCS Hits = 0
+    				   nCS Miss = 10006
+    			    CS Hit Rate = 0 %
+           Avg. CS Miss Latency = 60.575396 uS
+            Avg. CS Hit Latency = 0.000000 uS
+         Avg. CS Lookup Latency = 60.575396 uS
+
+				FIB_Metrics:
+    				  nFIB Hits = 10006
+             Forwarding Latency = 1.038670 uS
+
+Network_Metrics Reset
+PIT_Metrics Reset
+CS_Metrics Reset
+Fib_Metrics Reset
+
+------------------ Network_Metrics:------------------------
+       	      Avg. Response Time = 1.147000 mS
+    	 Avg. Forwarding Latency = 0.234000 mS
+         Avg. Processing Latency = 0.248000 mS
+	   Total Interests Satisfied = 6
+	              Avg. Hop Count = 1.998801
+
+					Device_Metrics:
+   	 	     nInInterest Packets = 10007
+   	 	    nOutInterest Packets = 10006
+   	 	     	 nInData Packets = 10006
+   	 	     	nOutData Packets = 10006
+
+					Throughput:
+   	 	     			intSize = 1100379
+   	 	     			dataSize = 1440000
+
+				PIT_Metrics:
+    				   nPIT Hits = 0
+    				   nPIT Miss = 10007
+    			    PIT Hit Rate = 0 %
+           Avg. PIT Miss Latency = 31.513607 uS
+            Avg. PIT Hit Latency = 0.000000 uS
+     Avg. PIT Processing Latency = 31.513607 uS
+
+				CS_Metrics:
+    				   nCS Hits = 0
+    				   nCS Miss = 10006
+    			    CS Hit Rate = 0 %
+           Avg. CS Miss Latency = 65.022669 uS
+            Avg. CS Hit Latency = 0.000000 uS
+         Avg. CS Lookup Latency = 65.022669 uS
+
+				FIB_Metrics:
+    				  nFIB Hits = 10006
+             Forwarding Latency = 1.129112 uS
+
+Network_Metrics Reset
+PIT_Metrics Reset
+CS_Metrics Reset
+Fib_Metrics Reset
+
+------------------ Network_Metrics:------------------------
+       	      Avg. Response Time = 1.153000 mS
+    	 Avg. Forwarding Latency = 0.253000 mS
+         Avg. Processing Latency = 0.286000 mS
+	   Total Interests Satisfied = 6
+	              Avg. Hop Count = 1.998801
+
+					Device_Metrics:
+   	 	     nInInterest Packets = 10007
+   	 	    nOutInterest Packets = 10006
+   	 	     	 nInData Packets = 10006
+   	 	     	nOutData Packets = 10006
+
+					Throughput:
+   	 	     			intSize = 1100379
+   	 	     			dataSize = 1440000
+
+				PIT_Metrics:
+    				   nPIT Hits = 0
+    				   nPIT Miss = 10007
+    			    PIT Hit Rate = 0 %
+           Avg. PIT Miss Latency = 31.059552 uS
+            Avg. PIT Hit Latency = 0.000000 uS
+     Avg. PIT Processing Latency = 31.059552 uS
+
+				CS_Metrics:
+    				   nCS Hits = 0
+    				   nCS Miss = 10006
+    			    CS Hit Rate = 0 %
+           Avg. CS Miss Latency = 64.658096 uS
+            Avg. CS Hit Latency = 0.000000 uS
+         Avg. CS Lookup Latency = 64.658096 uS
+
+				FIB_Metrics:
+    				  nFIB Hits = 10006
+             Forwarding Latency = 1.053147 uS
+
+Network_Metrics Reset
+PIT_Metrics Reset
+CS_Metrics Reset
+Fib_Metrics Reset
+
+------------------ Network_Metrics:------------------------
+       	      Avg. Response Time = 1.221000 mS
+    	 Avg. Forwarding Latency = 0.245000 mS
+         Avg. Processing Latency = 0.446000 mS
+	   Total Interests Satisfied = 6
+	              Avg. Hop Count = 1.998801
+
+					Device_Metrics:
+   	 	     nInInterest Packets = 10007
+   	 	    nOutInterest Packets = 10006
+   	 	     	 nInData Packets = 10006
+   	 	     	nOutData Packets = 10006
+
+					Throughput:
+   	 	     			intSize = 1100379
+   	 	     			dataSize = 1440000
+
+				PIT_Metrics:
+    				   nPIT Hits = 0
+    				   nPIT Miss = 10007
+    			    PIT Hit Rate = 0 %
+           Avg. PIT Miss Latency = 18.382359 uS
+            Avg. PIT Hit Latency = 0.000000 uS
+     Avg. PIT Processing Latency = 18.382359 uS
+
+				CS_Metrics:
+    				   nCS Hits = 0
+    				   nCS Miss = 10006
+    			    CS Hit Rate = 0 %
+           Avg. CS Miss Latency = 66.828400 uS
+            Avg. CS Hit Latency = 0.000000 uS
+         Avg. CS Lookup Latency = 66.828400 uS
+
+				FIB_Metrics:
+    				  nFIB Hits = 10006
+             Forwarding Latency = 1.179617 uS
+
+Network_Metrics Reset
+PIT_Metrics Reset
+CS_Metrics Reset
+Fib_Metrics Reset
+
+------------------ Network_Metrics:------------------------
+       	      Avg. Response Time = 1.211000 mS
+    	 Avg. Forwarding Latency = 0.236000 mS
+         Avg. Processing Latency = 0.426000 mS
+	   Total Interests Satisfied = 6
+	              Avg. Hop Count = 1.998801
+
+					Device_Metrics:
+   	 	     nInInterest Packets = 10008
+   	 	    nOutInterest Packets = 10007
+   	 	     	 nInData Packets = 10006
+   	 	     	nOutData Packets = 10006
+
+					Throughput:
+   	 	     			intSize = 1100433
+   	 	     			dataSize = 1440000
+
+				PIT_Metrics:
+    				   nPIT Hits = 0
+    				   nPIT Miss = 10008
+    			    PIT Hit Rate = 0 %
+           Avg. PIT Miss Latency = 19.738803 uS
+            Avg. PIT Hit Latency = 0.000000 uS
+     Avg. PIT Processing Latency = 19.738803 uS
+
+				CS_Metrics:
+    				   nCS Hits = 0
+    				   nCS Miss = 10007
+    			    CS Hit Rate = 0 %
+           Avg. CS Miss Latency = 66.981294 uS
+            Avg. CS Hit Latency = 0.000000 uS
+         Avg. CS Lookup Latency = 66.981294 uS
+
+				FIB_Metrics:
+    				  nFIB Hits = 10007
+             Forwarding Latency = 1.182753 uS
